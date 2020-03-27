@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="452.407452">
+<testcase classname="DemoBlaze Website" name="Login in to demo blaze steps" time="47.700802">
+<system-out><![CDATA[Given the user launched the chromebrowser...................................passed
+When the user open the Demoblaze website....................................passed
+Then user clicks on login button............................................passed
+Then the user enters the "SRINIVAS" and "s123654@" clicks on login button...passed
+]]></system-out>
+</testcase>
+<testcase classname="DemoBlaze Website" name="Login in to demo blaze steps 2" time="52.058808">
+<system-out><![CDATA[Given the user launched the chromebrowser...................................passed
+When the user open the Demoblaze website....................................passed
+Then user clicks on login button............................................passed
+Then the user enters the "DAGGUMATISRIKANTH" and "Product77@" clicks on login button.passed
+]]></system-out>
+</testcase>
+<testcase classname="DemoBlaze Website" name="Login in to demo blaze steps 3" time="93.588831">
+<system-out><![CDATA[Given the user launched the chromebrowser...................................passed
+When the user open the Demoblaze website....................................passed
+Then user clicks on login button............................................passed
+Then the user enters the "RAM" and "SS02154@" clicks on login button........passed
+]]></system-out>
+</testcase>
+<testcase classname="DemoBlaze Website" name="AddtoCart" time="129.012056">
+<system-out><![CDATA[Given the user launched chromebrowser.......................................passed
+When the user open Demoblaze................................................passed
+Then the user selects the Product...........................................passed
+And the product is added to cart............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="DemoBlaze Website" name="Contact Details" time="36.710055">
+<system-out><![CDATA[Given user launches chromebrowser...........................................passed
+When the DemoBlaze application is opened....................................passed
+Then the user clicks on Contact.............................................passed
+And the user enters the details.............................................passed
+And the user clicks the send button.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="DemoBlaze Website" name="Go to nextpage and select the product" time="93.3369">
+<system-out><![CDATA[Given the user Launces the ChromeBrowser....................................passed
+When the user have open the demoBlazeApplication............................passed
+Then user will click the nextpage...........................................passed
+And the user selects the product............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
